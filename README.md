@@ -6,11 +6,13 @@
   </a>
 
   <!-- Profile Views & Status Badges -->
+  <!-- Role & Status Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=bhargavridam-alt&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Role-Software%20Developer-0ea5e9?style=for-the-badge" alt="Role" />
     <img src="https://img.shields.io/badge/Core-Python%20%7C%20C%2B%2B-8b5cf6?style=for-the-badge" alt="Core Stack" />
     <img src="https://img.shields.io/badge/Status-Building%20Projects-10b981?style=for-the-badge" alt="Status" />
   </p>
+
 </div>
 
 ---
