@@ -17,7 +17,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 ```cpp
 #include <iostream>
@@ -26,13 +26,13 @@
 
 class Developer {
 public:
-    std::string name = "Ridam";
+    std::string name = "Ridam Bhargav";
     std::vector<std::string> languages = {"Python", "C++"};
-    std::string focus = "Automation, CLI Tools, and High-Performance Code";
+    std::string focus = "Automation, CLI Tools, and programming";
     std::string currentGoal = "Building a standout open-source portfolio";
 
     void introduce() {
-        std::cout << "Thanks for dropping by! Check out my repositories below." << std::endl;
+        std::cout << "Hi, I'm " << name << ". Check out my repositories below." << std::endl;
     }
 };
 
@@ -41,11 +41,12 @@ int main() {
     ridam.introduce();
     return 0;
 }
+
 ```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,git,github,vscode,linux,bash&theme=dark" alt="Tech Stack" />
@@ -53,7 +54,7 @@ int main() {
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhargavridam-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -76,12 +77,12 @@ int main() {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+- Fun fact: ...
 -->
